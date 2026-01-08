@@ -305,4 +305,123 @@ I've created a comprehensive Database Validator application with all the feature
 
 To integrate with the real Apollo API, simply replace the mock function in `/app/api/analysis/start/route.ts` with your actual Apollo API calls using the provided environment variables.
 
-The application is fully functional and ready to use with your Apollo API key!
+The application is fully functional and ready to use with your Apollo API key!👥 Employee Validator – Automated Employee Verification System
+
+Employee Validator is a web-based validation system designed to verify employee details, reduce manual HR effort, and improve data accuracy through automation.
+
+🌐 Live Demo / Portfolio:
+👉 https://afrithsulthan.vercel.app/
+
+🔍 Project Overview
+
+Manual employee verification is time-consuming and error-prone.
+This project automates the employee validation process by validating key employee data such as identity details, employment records, and status checks.
+
+The system is suitable for:
+
+HR teams
+
+Startups & enterprises
+
+SaaS products
+
+Internal employee management tools
+
+🧠 How It Works
+
+HR/admin submits employee details
+
+System validates data against predefined rules or sources
+
+Validation status is generated:
+
+✅ Valid
+
+❌ Invalid
+
+⚠️ Needs review
+
+Results are stored and displayed in a clean dashboard
+
+🛠️ Tech Stack
+
+Frontend: HTML, CSS, JavaScript, React
+
+Backend: Node.js / API-based validation
+
+Database: Structured employee records
+
+Deployment: Cloud-ready / API-first
+
+Use Cases: HR automation, SaaS validation tools
+
+✨ Key Features
+
+✔️ Automated employee data validation
+✔️ Reduces manual HR workload
+✔️ Improves onboarding accuracy
+✔️ Scalable for large organizations
+✔️ Secure and role-based access ready
+
+📂 Example Validation Flow
+Input
+{
+  "employeeId": "EMP1024",
+  "name": "John Doe",
+  "department": "Engineering",
+  "status": "Active"
+}
+
+Output
+{
+  "validationStatus": "Valid",
+  "checkedFields": ["employeeId", "department", "status"]
+}
+
+🌱 Why This Project Matters
+
+Faster employee onboarding
+
+Fewer HR errors
+
+Better compliance
+
+Ready foundation for an HR SaaS product
+
+This project can easily be extended with:
+
+Identity document checks
+
+Third-party HR integrations
+
+Audit logs & analytics
+
+AI-powered anomaly detection
+
+📬 Contact & Collaboration
+
+Developed by Afrith Sulthan
+Full Stack Developer | Automation & SaaS Enthusiast
+
+🌐 Portfolio:
+👉 https://afrithsulthan.vercel.app/
+
+I’m open to:
+
+SaaS product development
+
+HR-tech solutions
+
+Automation projects
+
+⭐ Support
+
+If you find this project useful:
+
+⭐ Star the repository
+
+🔗 Share with HR & SaaS communities
+
+🤝 Collaborate or contribute
+
+Your support helps increase visibility 🚀
